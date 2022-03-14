@@ -68,7 +68,7 @@ background-image: url("images/snare.png");
 }
 
 .pressed {
-  box-shadow: 0 3px 4px 0 #DBEDF3;
+  box-shadow: 0 3px 4px 0 #FFBDE6;
   opacity: 0.5;
 }
 
